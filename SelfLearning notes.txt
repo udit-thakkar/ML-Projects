@@ -1,0 +1,5 @@
+Git commands made while pushing my ipynb files
+git add .
+git status
+git commit -m "EDA and Problem to statement"
+git push -u origin main
